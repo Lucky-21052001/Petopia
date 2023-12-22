@@ -3,6 +3,8 @@ Petopia - A Pet adopting platform
 
 This is an application to help people who wants to adopt a Dog and make it a part of their family.
 This application is developed using HTML, CSS, JavaScript, PHP, SQL.
+
+
 #Home Page
 ![Screenshot (103)](https://github.com/Lucky-21052001/Petopia/assets/120821905/e55c4e09-698e-4b56-b728-31685fdddd4c)
 ![Screenshot (105)](https://github.com/Lucky-21052001/Petopia/assets/120821905/20033977-4154-4a3a-a753-3b6c657d56f4)
