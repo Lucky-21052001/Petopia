@@ -22,11 +22,7 @@ This application is developed using HTML, CSS, JavaScript, PHP, SQL.
 
 ![Screenshot (109)](https://github.com/Lucky-21052001/Petopia/assets/120821905/dcb95d73-b1e0-49b4-ba9b-2c2c7faa2782)
 
-#shopping cart
 
-
-
-![Screenshot (112)](https://github.com/Lucky-21052001/Petopia/assets/120821905/db9cf558-b3c5-4ebb-ad31-156bd23872a6)
 
 #order
 
